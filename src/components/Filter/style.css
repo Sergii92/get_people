@@ -1,0 +1,12 @@
+.filter-block {
+  display: flex;
+  flex-direction: column;
+}
+.checkbox {
+  display: flex;
+  margin-top: 20px;
+}
+
+.checkbox h5 {
+  margin: 0;
+}

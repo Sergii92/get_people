@@ -1,0 +1,12 @@
+.people-block {
+  width: 200px;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px dashed black;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+}
+.people-block:first-child {
+  border-top: 1px dashed black;
+}
